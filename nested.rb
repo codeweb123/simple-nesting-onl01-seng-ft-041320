@@ -20,8 +20,6 @@ end
 hopper
 
 def alan_kay_is_known_for
-
-
 	programmer_hash =
  		{
         :grace_hopper => {
@@ -64,9 +62,7 @@ def dennis_ritchies_language
 	programmer_hash[:dennis_ritchie][:languages][0]
 end
 
-
 def adding_matz
-
 	programmer_hash =
  		{
         :grace_hopper => {
